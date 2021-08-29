@@ -1,5 +1,5 @@
 {
-  "name": "paribhas2",
+  "name": "paribhas-ts",
   "version": "2.0.0",
   "description": "Paribhas is typescript based node mvc server framwork",
   "main": "index.js",
@@ -9,8 +9,8 @@
     "dev": "nodemon ./src/index.ts"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "Harikrushna Patel",
+  "license": "MIT",
   "devDependencies": {
     "@types/express": "^4.17.13",
     "@types/node": "^16.7.5",
