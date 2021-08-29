@@ -3,6 +3,9 @@
   "version": "2.0.0",
   "description": "Paribhas is typescript based node mvc server framwork",
   "main": "index.js",
+  "repository": {
+    "url": "https://github.com/hardikhari96/Paribhas-ts"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node ./dist/index.js",
